@@ -1,0 +1,31 @@
+{
+  "serie": {
+    "name": "Rick and Morty"
+  },
+  "posts": [
+    {
+      "id": 1,
+      "title": "Rick and Morty: El trailer de la 4ª temporada trae personajes antiguos",
+      "image": "https://jpimg.com.br/uploads/2019/10/rick-and-morty-4-temporada.png",
+      "description": "La animación de Adult Swim también tiene fecha de estreno en Estados Unidos: los cinco nuevos episodios se emitirán a partir del 10 de noviembre."
+    },
+    {
+      "id": 2,
+      "title": "La temporada 4 de Rick y Morty presentó su primer episodio",
+      "image": "https://jpimg.com.br/uploads/2019/07/rick-and-morty-e1588074354645.jpg",
+      "description": "La presentación tuvo lugar en el panel de la serie en San Diego Comic Con. Los nuevos episodios saldrán al aire en noviembre en los Estados Unidos."
+    },
+    {
+      "id": 3,
+      "title": "Rick and Morty: Kanye West va a colaborar con un episodio de la nueva temporada",
+      "image": "https://jpimg.com.br/uploads/2019/05/rick-and-morty-season-4.png",
+      "description": "Kanye West tendría la oportunidad de trabajar en un episodio de 'Rick and Morty'. De hecho, el rapero es fan declarado de la serie y se alegró mucho cuando supo que habría 70 nuevos episodios. Esta semana, se anunció que la cuarta temporada llegará en noviembre a los Estados Unidos."
+    },
+    {
+      "id": 4,
+      "title": "El creador de 'Rick and Morty' trabaja en una nueva animación para Quibi",
+      "image": "http://d20inc.com.br/wp-content/uploads/2017/09/06CAPA_SITE-870x436.png",
+      "description": "Justin Roiland, el cerebro detrás de 'Rick and Morty' junto a Dan Harmon, está desarrollando una nueva serie para la próxima plataforma de streaming Quibi."
+    }
+  ]
+}
